@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 버그에서 살아남기 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 버그와 함께 살아가기 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   버그에서 살아남는 블로그
