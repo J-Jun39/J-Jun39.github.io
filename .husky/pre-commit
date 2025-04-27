@@ -1,4 +1,5 @@
 #!/opt/homebrew/bin sh
+echo "abc";
 . "$(dirname -- "$0")/_/husky.sh"
 
 npm test

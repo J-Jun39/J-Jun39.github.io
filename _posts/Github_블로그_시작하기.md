@@ -3,7 +3,7 @@ title: Github 블로그 시작하기
 description: Github 블로그 설정부터 배포까지
 author: j-jun
 date: 2025-04-20 14:53:00 +0800
-categories: [Blogging, Start]
+categories: [Blogging, Demo]
 tags: [typography]
 pin: true
 math: true
@@ -11,11 +11,33 @@ mermaid: true
 image:
   path: /commons/devices-mockup.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devicesa.
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 ## 블로그 시작하기
 
-Github 블로그 생성 기념으로 시작하는 Github 블로그 생성 방법 시작합니다.
+Github 블로그 생성 기념으로 어렵고도 재미 Github 블로그 생성 방법 시작합니다.
+단계 별로 생성하는 과정을 진행합니다. 문의사항은 댓글로 남겨주세요.(댓글 기능은 추후 업데이트 하겠습니다.)
+<br>
+블로그 생성은 현재 제 블로그 테마인 https://github.com/cotes2020/jekyll-theme-chirpy 테마를 적용할 예정입니다.
 
+### ToDo list
+- [ ] 깃허브 블로그 만들기
+  - [x] Step 1 : 깃허브 계정 생성
+  - [ ] Step 2 : 깃허브 블로그 repository 생
+  - [ ] Step 3 : 깃허브 블로그 세팅(로컬)
+  - [ ] Step 4 : 깃허브 블로그 세팅(원격)
+  
+### 깃허브 계정 생성하기
+# 1. 구글에 깃허브 검색 이후 접속 
+<br>
+https://github.com/
+   
+# 2. Sign up 클릭
 
+   ![Desktop View](../assets/img/post1/github메인.png)
+
+# 3. 회원가입 진행 <br>
+   ![Desktop View](../assets/img/post1/github2.png)
+
+# 4. 계정 접속이 완료되었다면 다음 스텝을 확인해주세요. 
